@@ -3,7 +3,7 @@
   "id": "VancouverIsland",
   "name": "Vancouver Island",
   "translation_key": "map.vancouverisland",
-  "categories": ["north_america", "new"],
+  "categories": ["north_america"],
   "location": { "lat": 49.6, "lon": -125.5 },
   "author": "Tristar",
   "nations": [
